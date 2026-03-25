@@ -1,6 +1,5 @@
  
-<img width="376" height="221" alt="image" src="https://github.com/user-attachments/assets/1debb2f8-db71-4a06-a300-56fecb3a92e7" />
-
+![Titanic Survival Prediction](https://github.com/user-attachments/assets/1debb2f8-db71-4a06-a300-56fecb3a92e7)
 
 
 
